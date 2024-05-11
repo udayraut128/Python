@@ -15,6 +15,25 @@ while count < 5:
 # 4
 
 
+# 2 example
+# Ask the user to guess a number
+secret_number = 7
+guess = int(input("Guess the secret number (between 1 and 10): "))
+
+# Keep asking until the correct number is guessed
+while guess != secret_number:
+    print("Wrong guess!")
+    guess = int(input("Try again: "))
+
+print("Congratulations! You guessed the secret number:", secret_number)
+
+
+#output
+# Guess the secret number (between 1 and 10): 4
+# Wrong guess!
+# Try again:
+
+
 #3 example of star pattern
 
 # Define the height of the triangle
