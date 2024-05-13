@@ -1,3 +1,5 @@
+# A dictionary in Python is a collection of data that stores key-value pairs. Keys are unique and used to access corresponding values. Dictionaries are mutable, unordered, and support flexible data types. They offer efficient lookup using hash tables.
+
 # Creating a dictionary
 my_dict = {
     "name": "John",
