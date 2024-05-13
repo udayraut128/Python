@@ -1,3 +1,5 @@
+# A set in Python is an unordered collection of unique elements. It allows for efficient membership testing and supports mathematical set operations. Sets are mutable, meaning elements can be added or removed after creation.
+
 # Creating a set
 my_set = {1, 2, 3, 4, 5}
 
