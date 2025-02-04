@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import ttk
 from admin import college_admin
 from teacher import college_faculty 
-from student import college_student                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+from student import college_student                   
 import time,datetime 
 from tkinter import messagebox
 from typing import Counter 
