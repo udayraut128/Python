@@ -1,5 +1,4 @@
 from collections import Counter
-
 # Read input and split into a list of integers
 numbers = list(map(int, input().split()))
 
